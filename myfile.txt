@@ -1,0 +1,5 @@
+
+Docker Installation Steps:
+
+1. sudo yum update -y
+2. sudo vi /etc/resolv.conf
